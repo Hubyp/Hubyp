@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Hubyp/Hubyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 About me:
@@ -12,4 +11,3 @@ About me:
 - 📫 How to reach me: in your heart...
 - 😄 Pronouns: Esx...
 - ⚡ Fun fact: In  Bad...
--->
