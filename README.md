@@ -16,10 +16,13 @@ About me:
  
 
 
+## Experience
 
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Hubyp&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="center" /></div>  
 
 
  ## TEAM 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/948916911293497344)](https://discord.com/users/948916911293497344)
 [![Discord Presence](https://lanyard.cnrad.dev/api/769522926139342848)](https://discord.com/users/769522926139342848)
+
