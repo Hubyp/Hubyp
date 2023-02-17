@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Hubyp/Hubyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```**Hubyp/Hubyp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.```
 
 About me:
 
@@ -13,14 +13,14 @@ About me:
 - ⚡ Fun fact: In  Bed...
  
  
- 
-
-
 ## Experience
 
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=Hubyp&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="center" /></div>  
 
 
  ## TEAM 
+![Profile Count](https://komarev.com/ghpvc/?username=Hubyp&color=00FFD3&style=flat-square)&nbsp;
+[![GitHub Richârd](https://img.shields.io/github/followers/Hubyp?label=@Hubyp&color=FF6363&style=flat-square)](https://github.com/Hubyp)&nbsp;
+[![GitHub Richârd](https://img.shields.io/github/followers/Hubyp?label=@Hubyp&color=00FF50&style=flat-square)](https://github.com/Hubyp)&nbsp;
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/948916911293497344)](https://discord.com/users/948916911293497344)
