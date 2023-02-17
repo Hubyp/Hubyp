@@ -24,5 +24,3 @@ About me:
  ## TEAM 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/948916911293497344)](https://discord.com/users/948916911293497344)
-[![Discord Presence](https://lanyard.cnrad.dev/api/769522926139342848)](https://discord.com/users/769522926139342848)
-
