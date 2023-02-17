@@ -12,6 +12,13 @@ About me:
 - 😄 Pronouns: Esx...
 - ⚡ Fun fact: In  Bed...
  
+ 
+ 
+
+
+
+
+
  ## TEAM 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/948916911293497344)](https://discord.com/users/948916911293497344)
