@@ -23,4 +23,7 @@ About me:
 [![GitHub Richârd](https://img.shields.io/github/followers/Hubyp?label=@Hubyp&color=FF6363&style=flat-square)](https://github.com/Hubyp)&nbsp;
 [![GitHub Richârd](https://img.shields.io/github/followers/Hubyp?label=@Hubyp&color=00FF50&style=flat-square)](https://github.com/Hubyp)&nbsp;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/948916911293497344)](https://discord.com/users/948916911293497344)
+***
+![](https://discord.c99.nl/widget/theme-1/948916911293497344.png)  
+
+***
