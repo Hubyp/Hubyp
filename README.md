@@ -31,3 +31,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hubyp&show_icons=true&locale=en" alt="hubyp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubyp&" alt="hubyp" /></p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nhtlcdnlnue7cx7kv56g563bcq&width={width})
