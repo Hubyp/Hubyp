@@ -18,7 +18,7 @@
 - ⚡ Fun fact **__Don't get trampled, fight for your dreams__**
 
 <h3 align="left">Connect with me:</h3
-[![Discord Presence](https://lanyard.cnrad.dev/api/886810214739869786)](https://discord.com/users/886810214739869786)
+
 <p align="left">
 <a href="https://discord.gg/BlackMoneyEpoch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/SNDEdngcwb" height="30" width="40" /></a>
 </p>
@@ -32,4 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hubyp&" alt="hubyp" /></p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nhtlcdnlnue7cx7kv56g563bcq&width={width})
+# Recently Played
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31nhtlcdnlnue7cx7kv56g563bcq)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/886810214739869786)](https://discord.com/users/886810214739869786)
